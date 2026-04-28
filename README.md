@@ -133,9 +133,9 @@ Currently Learning:
 #</a>
 #</p>
 
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajshree-Chaudhari&theme=neon-dark&hide_border=true&stroke=0000&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF"/>
-</p>
+#<p align="center">
+#  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajshree-Chaudhari&theme=neon-dark&hide_border=true&stroke=0000&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF"/>
+#</p>
 
 </div>
 
