@@ -128,8 +128,8 @@ Currently Learning:
 
 #<p align="center">
 #<a href="https://github.com/Rajshree-Chaudhari">
-##  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rajshree-Chaudhari&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&t#ext_color=FFFFFF&icon_color=00D4FF"/>
- ## <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rajshree-Chaudhari&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF"/>
+#  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rajshree-Chaudhari&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&t#ext_color=FFFFFF&icon_color=00D4FF"/>
+ # <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rajshree-Chaudhari&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF"/>
 #</a>
 #</p>
 
