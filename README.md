@@ -126,12 +126,12 @@ Currently Learning:
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **GitHub Analytics** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 
-<p align="center">
-<a href="https://github.com/Rajshree-Chaudhari">
-#  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rajshree-Chaudhari&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&t#ext_color=FFFFFF&icon_color=00D4FF"/>
- # <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rajshree-Chaudhari&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF"/>
-</a>
-</p>
+#<p align="center">
+#<a href="https://github.com/Rajshree-Chaudhari">
+##  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rajshree-Chaudhari&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&t#ext_color=FFFFFF&icon_color=00D4FF"/>
+ ## <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rajshree-Chaudhari&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF"/>
+#</a>
+#</p>
 
 <p align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajshree-Chaudhari&theme=neon-dark&hide_border=true&stroke=0000&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&currStreakNum=FFFFFF&d#ates=FFFFFF&sideLabels=FFFFFF"/>
