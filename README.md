@@ -122,7 +122,7 @@ Currently Learning:
 </div>
 
 <!-- GitHub Stats Section -->
-<div align="center">
+#<div align="center">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **GitHub Analytics** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 
@@ -134,10 +134,10 @@ Currently Learning:
 #</p>
 
 #<p align="center">
-#  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajshree-Chaudhari&theme=neon-dark&hide_border=true&stroke=0000&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF"/>
+#  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajshree-Chaudhari&theme=neon-#dark&hide_border=true&stroke=0000&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&currStreakNum=FFFFFF&d#ates=FFFFFF&sideLabels=FFFFFF"/>
 #</p>
 
-</div>
+#</div>
 
 <!-- Activity Graph -->
 <div align="center">
