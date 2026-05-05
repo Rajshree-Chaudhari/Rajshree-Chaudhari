@@ -124,7 +124,7 @@ Currently Learning:
 
 <!-- GitHub Stats Section -->
 
-#<div align="center">
+<div align="center">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **GitHub Analytics** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 
