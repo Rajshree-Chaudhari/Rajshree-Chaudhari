@@ -36,32 +36,14 @@
 
 ## About Me
 
-<table>
-<tr>
-<td width="60%">
+AWS & DevOps Engineer focused on building scalable cloud infrastructure,
+automated CI/CD workflows, and Kubernetes-based deployments.
 
-I am an AWS & DevOps Engineer focused on building reliable cloud infrastructure, automated CI/CD workflows, and Kubernetes-based deployments.
-
-I enjoy working on real-world DevOps problems like infrastructure automation, deployment reliability, monitoring, and production troubleshooting.
-
-</td>
-<td width="40%">
-
-```bash
-rajshree@cloud:~$ focus
-AWS | DevOps | Kubernetes
-
-rajshree@cloud:~$ tools
-Terraform | Jenkins | Docker
-
-rajshree@cloud:~$ mindset
-Automate • Monitor • Improve
-````
-
-</td>
-</tr>
-</table>
-
+Passionate about:
+- Infrastructure Automation
+- High Availability Architectures
+- GitOps & Kubernetes
+- Monitoring & Observability
 ---
 
 ## What I Work On
