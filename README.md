@@ -48,23 +48,63 @@ Passionate about:
 
 ## What I Work On
 
-<div align="center">
+## What I Work On
 
-| Cloud Infrastructure   | CI/CD Automation      | Kubernetes & GitOps |
-| ---------------------- | --------------------- | ------------------- |
-| AWS EC2, VPC, ALB, ASG | Jenkins Pipelines     | EKS Deployments     |
-| S3, IAM, CloudWatch    | GitHub Actions        | ArgoCD Workflows    |
-| Terraform IaC          | Docker Image Delivery | Helm & Manifests    |
+<table>
+<tr>
+<td width="33%">
 
-</div>
+### Cloud Infrastructure
+- AWS EC2
+- VPC
+- ALB & ASG
+- Terraform
+
+</td>
+
+<td width="33%">
+
+### CI/CD Automation
+- Jenkins
+- GitHub Actions
+- Docker Pipelines
+- Image Delivery
+
+</td>
+
+<td width="33%">
+
+### Kubernetes & GitOps
+- EKS
+- ArgoCD
+- Helm
+- Kubernetes Deployments
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### High Availability CI/CD Pipeline
+AWS • Jenkins • Docker • Terraform
+
+- Automated Docker deployments
+- ALB + ASG architecture
+- Launch Template versioning
+- Rolling deployments
+
+---
+
+### Kubernetes Monitoring Stack
+EKS • Prometheus • Grafana
+
+- Kubernetes metrics monitoring
+- Alerting & observability
+- Pod troubleshooting
+- Resource analysis
 
 ### High Availability CI/CD Pipeline
 
@@ -77,21 +117,6 @@ Passionate about:
 * S3 backend with DynamoDB locking
 
 </td>
-<td width="50%">
-
-### Kubernetes Monitoring Stack
-
-**EKS • Prometheus • Grafana • Alertmanager**
-
-* Kubernetes metrics monitoring
-* Grafana dashboard visualization
-* Pod restart troubleshooting
-* Resource usage analysis
-* Alerting and observability setup
-
-</td>
-</tr>
-<tr>
 <td width="50%">
 
 ### GitOps Deployment Workflow
