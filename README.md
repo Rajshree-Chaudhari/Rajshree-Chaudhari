@@ -193,13 +193,13 @@ DevOps Approach:
 ```
 
 ---
-
 ## GitHub Analytics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rajshree-Chaudhari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=FF9900&icon_color=38BDF8&text_color=E5E7EB" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajshree-Chaudhari&theme=tokyonight_duo&hide_border=true&background=0B1220&ring=FF9900&fire=FF9900&currStreakLabel=38BDF8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rajshree-Chaudhari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=FF9900&icon_color=38BDF8&text_color=E5E7EB"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Rajshree-Chaudhari&theme=tokyonight-duo&hide_border=true&background=0B1220&ring=FF9900&fire=FF9900&currStreakLabel=38BDF8"/>
 
 </div>
 
