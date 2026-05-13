@@ -230,4 +230,3 @@ DevOps Approach:
 ### Building Cloud Infrastructure & Reliable DevOps Workflows
 
 </div>
----
