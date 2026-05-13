@@ -49,42 +49,24 @@ Passionate about:
 
 ## What I Work On
 
-<table>
-<tr>
-<td width="33%">
+<div align="center">
 
-### Cloud Infrastructure
-- AWS EC2
-- VPC
-- ALB & ASG
-- Terraform
+### ☁️ Cloud Infrastructure
+AWS EC2 • VPC • ALB • ASG • Terraform
 
-</td>
+<br/>
 
-<td width="33%">
+### ⚙️ CI/CD Automation
+Jenkins • GitHub Actions • Docker • Image Delivery
 
-### CI/CD Automation
-- Jenkins
-- GitHub Actions
-- Docker Pipelines
-- Image Delivery
+<br/>
 
-</td>
+### 🚀 Kubernetes & GitOps
+EKS • ArgoCD • Helm • Kubernetes Deployments
 
-<td width="33%">
-
-### Kubernetes & GitOps
-- EKS
-- ArgoCD
-- Helm
-- Kubernetes Deployments
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
-
 ## Featured Projects
 
 ### High Availability CI/CD Pipeline
