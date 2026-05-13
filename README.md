@@ -1,6 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:111827,100:FF9900&height=180&section=header&text=Rajshree%20Chaudhari&fontSize=42&fontColor=E5E7EB&animation=fadeIn&fontAlignY=45&desc=AWS%20•%20Kubernetes%20•%20Terraform%20•%20CI/CD&descAlignY=70&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0B1220,45:1E293B,100:FF9900&height=220&section=header&text=Rajshree%20Chaudhari&fontSize=44&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Kubernetes%20%7C%20Terraform&descAlignY=58&descSize=16"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Rajshree-Chaudhari&label=Profile%20Views&color=FF9900&style=flat-square" />
+<img src="https://img.shields.io/github/followers/Rajshree-Chaudhari?label=Followers&style=flat-square&color=38BDF8&logo=github" />
+<img src="https://img.shields.io/badge/Focus-Cloud%20Automation-0B1220?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+scalable+cloud+infrastructure;Automating+CI%2FCD+pipelines;Working+with+AWS+%7C+Kubernetes+%7C+Terraform;Designing+reliable+DevOps+workflows"/>
 
 </div>
 
@@ -22,94 +36,150 @@
 
 ## About Me
 
-AWS & DevOps Engineer passionate about building scalable cloud infrastructure,
-Kubernetes platforms, and automated CI/CD pipelines.
+<table>
+<tr>
+<td width="60%">
 
-Currently focused on:
+I am an AWS & DevOps Engineer focused on building reliable cloud infrastructure, automated CI/CD workflows, and Kubernetes-based deployments.
 
-- High Availability Infrastructure on AWS
-- Kubernetes & GitOps Workflows
-- Terraform Infrastructure Automation
-- CI/CD Pipeline Engineering
-- Monitoring & Observability
+I enjoy working on real-world DevOps problems like infrastructure automation, deployment reliability, monitoring, and production troubleshooting.
+
+</td>
+<td width="40%">
+
+```bash
+rajshree@cloud:~$ focus
+AWS | DevOps | Kubernetes
+
+rajshree@cloud:~$ tools
+Terraform | Jenkins | Docker
+
+rajshree@cloud:~$ mindset
+Automate • Monitor • Improve
+````
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Current DevOps Focus
+## What I Work On
 
-```bash
-> Building HA CI/CD Architectures
-> Automating Infrastructure with Terraform
-> Kubernetes Monitoring with Prometheus & Grafana
-> GitHub Workflow Automation
-> Learning Advanced GitOps Patterns
-````
+<div align="center">
+
+| Cloud Infrastructure   | CI/CD Automation      | Kubernetes & GitOps |
+| ---------------------- | --------------------- | ------------------- |
+| AWS EC2, VPC, ALB, ASG | Jenkins Pipelines     | EKS Deployments     |
+| S3, IAM, CloudWatch    | GitHub Actions        | ArgoCD Workflows    |
+| Terraform IaC          | Docker Image Delivery | Helm & Manifests    |
+
+</div>
 
 ---
 
 ## Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### High Availability CI/CD Pipeline
 
-**Tech Stack:** AWS • Jenkins • Docker • ALB • ASG • Terraform
+**AWS • Jenkins • Docker • ALB • ASG • Terraform**
 
 * Automated Docker image deployments
+* Load-balanced application architecture
 * Launch Template versioning
 * Auto Scaling Group instance refresh
-* Load-balanced highly available architecture
-* Remote backend with S3 & DynamoDB locking
+* S3 backend with DynamoDB locking
 
----
+</td>
+<td width="50%">
 
 ### Kubernetes Monitoring Stack
 
-**Tech Stack:** EKS • Prometheus • Grafana • Alertmanager
+**EKS • Prometheus • Grafana • Alertmanager**
 
 * Kubernetes metrics monitoring
-* Pod resource troubleshooting
 * Grafana dashboard visualization
-* Prometheus alerting setup
-* OOMKilled incident analysis
+* Pod restart troubleshooting
+* Resource usage analysis
+* Alerting and observability setup
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### GitOps Deployment Workflow
 
-**Tech Stack:** ArgoCD • Kubernetes • GitHub Actions
+**ArgoCD • Kubernetes • GitHub Actions**
 
-* GitOps-based deployments
-* Environment promotion workflows
+* Git-based deployment control
+* Environment promotion workflow
 * Declarative Kubernetes manifests
-* Automated sync & rollback strategy
+* Automated sync and rollback strategy
+
+</td>
+<td width="50%">
+
+### Terraform Infrastructure Modernization
+
+**Terraform • AWS • Modules • Remote State**
+
+* Modular infrastructure design
+* Reusable Terraform components
+* State management best practices
+* Drift detection and refactoring
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Tech Stack
 
-### Cloud & Infrastructure
+<div align="center">
 
-<p>
+### Cloud & DevOps
+
 <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,githubactions" />
-</p>
 
-### Monitoring & Security
+<br/><br/>
 
-<p>
+### Monitoring, Security & Scripting
+
 <img src="https://skillicons.dev/icons?i=grafana,prometheus,linux,bash,git,github" />
-</p>
+
+</div>
 
 ---
 
 ## DevOps Toolkit
 
-| Category       | Technologies                    |
-| -------------- | ------------------------------- |
-| Cloud          | AWS EC2, VPC, S3, RDS, EKS      |
-| Containers     | Docker, Kubernetes, Helm        |
-| CI/CD          | Jenkins, GitHub Actions, ArgoCD |
-| Infrastructure | Terraform, IaC                  |
-| Monitoring     | Prometheus, Grafana, CloudWatch |
-| Security       | Trivy, SonarQube, AWS KMS       |
+| Area                   | Tools & Services                           |
+| ---------------------- | ------------------------------------------ |
+| Cloud                  | AWS EC2, VPC, S3, RDS, IAM, ALB, ASG, EKS  |
+| Containers             | Docker, Kubernetes, Helm                   |
+| CI/CD                  | Jenkins, GitHub Actions, ArgoCD            |
+| Infrastructure as Code | Terraform, Remote State, Modules           |
+| Monitoring             | Prometheus, Grafana, CloudWatch            |
+| Security & Quality     | Trivy, SonarQube, AWS KMS, Secrets Manager |
+
+---
+
+## Engineering Principles
+
+```yaml
+DevOps Approach:
+  - Build infrastructure that is repeatable and reliable
+  - Automate deployments wherever possible
+  - Keep systems observable before issues become failures
+  - Use Infrastructure as Code for consistency
+  - Improve delivery speed without compromising stability
+```
 
 ---
 
@@ -118,7 +188,6 @@ Currently focused on:
 <div align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rajshree-Chaudhari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=FF9900&icon_color=38BDF8&text_color=E5E7EB" />
-
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajshree-Chaudhari&theme=tokyonight_duo&hide_border=true&background=0B1220&ring=FF9900&fire=FF9900&currStreakLabel=38BDF8" />
 
 </div>
@@ -135,6 +204,16 @@ Currently focused on:
 
 ---
 
+## Currently Exploring
+
+<div align="center">
+
+`Advanced Kubernetes` • `GitOps Workflows` • `Terraform Modules` • `Observability` • `AWS HA Architecture`
+
+</div>
+
+---
+
 ## Connect With Me
 
 <div align="center">
@@ -142,19 +221,16 @@ Currently focused on:
 <a href="https://www.linkedin.com/in/rajshree-chaudhari/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:rajshreec020@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
-
----
-
-<div align="center">
+<br/><br/>
 
 ### Building Cloud Infrastructure & Reliable DevOps Workflows
 
 </div>
-
 ---
+
+ Cleaner mobile experience
+* Strong AWS/Cloud engineering identity
