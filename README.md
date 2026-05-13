@@ -219,10 +219,9 @@ DevOps Approach:
 ### Building Cloud Infrastructure & Reliable DevOps Workflows
 
 </div>
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C08497,50:D4A373,100:E9C46A&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:111827,100:F59E0B&height=140&section=footer"/>
 
 </div>
 
