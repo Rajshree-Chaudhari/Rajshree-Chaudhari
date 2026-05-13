@@ -25,9 +25,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Rajshree-Chaudhari
-          outputs: |
-              dist/github-contribution-grid-snake.svg?color_snake=%23F7A41D&color_dots=%23ebedf0,%23ffe5b4,%23ffd27f,%23ffb347,%23F7A41D
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23F7A41D&color_dots=%23161b22,%234a2e00,%238a5200,%23c77700,%23F7A41D
+         outputs: |
+           dist/github-contribution-grid-snake.svg?color_snake=%23F7A41D
+           dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23F7A41D
             
             
       - name: push github-contribution-grid-snake.svg to the output branch
