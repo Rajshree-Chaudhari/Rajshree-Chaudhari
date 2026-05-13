@@ -220,6 +220,8 @@ DevOps Approach:
 
 </div>
 
+
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,45:111827,100:D97706&height=90&section=footer"/>
