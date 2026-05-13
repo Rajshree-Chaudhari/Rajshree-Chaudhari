@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Scalable+Cloud+Infrastructure;Automating+CI%2FCD+Workflows;AWS+%7C+Kubernetes+%7C+Terraform;Designing+Reliable+DevOps+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3000&pause=1200&color=F7A41D&center=true&vCenter=true&width=750&lines=Building+Scalable+Cloud+Infrastructure;Automating+CI%2FCD+Workflows;AWS+%7C+Kubernetes+%7C+Terraform;Designing+Reliable+DevOps+Systems"/>
 
 </div>
 
