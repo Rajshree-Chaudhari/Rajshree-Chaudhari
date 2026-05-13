@@ -204,7 +204,6 @@ DevOps Approach:
 <br/>
 
 </div>
----
 
 ## Contribution Graph
 
