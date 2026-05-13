@@ -25,10 +25,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Rajshree-Chaudhari
-         outputs: |
+          outputs: |
            dist/github-contribution-grid-snake.svg?color_snake=%23F7A41D
            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23F7A41D
-            
             
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4
