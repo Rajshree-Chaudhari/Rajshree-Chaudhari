@@ -189,7 +189,7 @@ DevOps Approach:
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajshree-Chaudhari&bg_color=0B1220&color=38BDF8&line=FF9900&point=E5E7EB&area=true&hide_border=true"/>
 
-##<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajshree-##Chaudhari&bg_color=0B1220&color=38BDF8&line=FF9900&point=E5E7EB&area=true&hide_border=true" />
+##<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajshree-Chaudhari&bg_color=0B1220&color=38BDF8&line=FF9900&point=E5E7EB&area=true&hide_border=true" />
 
 </div>
 
