@@ -48,8 +48,6 @@ Passionate about:
 
 ## What I Work On
 
-## What I Work On
-
 <table>
 <tr>
 <td width="33%">
@@ -106,6 +104,8 @@ EKS • Prometheus • Grafana
 - Pod troubleshooting
 - Resource analysis
 
+---
+
 ### High Availability CI/CD Pipeline
 
 **AWS • Jenkins • Docker • ALB • ASG • Terraform**
@@ -115,6 +115,8 @@ EKS • Prometheus • Grafana
 * Launch Template versioning
 * Auto Scaling Group instance refresh
 * S3 backend with DynamoDB locking
+
+---
 
 </td>
 <td width="50%">
@@ -130,6 +132,8 @@ EKS • Prometheus • Grafana
 
 </td>
 <td width="50%">
+
+---
 
 ### Terraform Infrastructure Modernization
 
