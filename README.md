@@ -201,9 +201,7 @@ DevOps Approach:
 
 <img width="60%" src="https://streak-stats.demolab.com?user=Rajshree-Chaudhari&theme=tokyonight-duo&hide_border=true&background=0B1220&ring=FF9900&fire=FF9900&currStreakLabel=38BDF8"/>
 
-<br/><br/>
-
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rajshree-Chaudhari&bg_color=0B1220&color=38BDF8&line=FF9900&point=E5E7EB&area=true&hide_border=true"/>
+<br/>
 
 </div>
 ---
