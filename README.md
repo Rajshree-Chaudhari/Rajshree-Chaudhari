@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0B1220,45:1E293B,100:FF9900&height=220&section=header&text=Rajshree%20Chaudhari&fontSize=44&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Kubernetes%20%7C%20Terraform&descAlignY=58&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:111827,100:FF9900&height=180&section=header&text=Rajshree%20Chaudhari&fontSize=42&fontColor=E5E7EB&animation=fadeIn&fontAlignY=45&desc=AWS%20•%20Kubernetes%20•%20Terraform%20•%20CI/CD&descAlignY=70&descSize=18"/>
 
 <br/>
 
