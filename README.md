@@ -54,15 +54,11 @@ Passionate about:
 ### ☁️ Cloud Infrastructure
 AWS EC2 • VPC • ALB • ASG • Terraform
 
-<br/>
-
 ### ⚙️ CI/CD Automation
 Jenkins • GitHub Actions • Docker • Image Delivery
 
-<br/>
-
 ### 🚀 Kubernetes & GitOps
-EKS • ArgoCD • Helm • Kubernetes Deployments
+EKS • ArgoCD • Helm • GitOps Workflows
 
 </div>
 
@@ -191,7 +187,9 @@ DevOps Approach:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajshree-Chaudhari&bg_color=0B1220&color=38BDF8&line=FF9900&point=E5E7EB&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajshree-Chaudhari&bg_color=0B1220&color=38BDF8&line=FF9900&point=E5E7EB&area=true&hide_border=true"/>
+
+##<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajshree-##Chaudhari&bg_color=0B1220&color=38BDF8&line=FF9900&point=E5E7EB&area=true&hide_border=true" />
 
 </div>
 
