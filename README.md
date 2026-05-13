@@ -231,6 +231,3 @@ DevOps Approach:
 
 </div>
 ---
-
- Cleaner mobile experience
-* Strong AWS/Cloud engineering identity
