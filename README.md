@@ -16,7 +16,7 @@
 <!-- Profile Views with Animation -->
 <img src="https://profile-counter-two.vercel.app/api/views?cache=26" />
 <!--img src="https://img.shields.io/github/followers/Rajshree-Chaudhari?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub Followers" -->
-<img src="https://img.shields.io/badge/Focus-Cloud%20Automation-0B1220?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/FOCUS-Cloud%20Automation-0B1220?style=flat-square&logo=amazonaws&logoColor=FF9900" />
 
 </div>
 
