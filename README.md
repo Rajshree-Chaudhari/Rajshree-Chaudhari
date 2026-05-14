@@ -9,9 +9,6 @@
 <img src="https://profile-counter-two.vercel.app/api/views?cache=2" />
 <!--img src="https://komarev.com/ghpvc/?username=Rajshree-Chaudhari&label=Profile%20Views&color=brightgreen&style=for-the-badge&logo=eye" alt="Profile Views" -->
 <img src="https://img.shields.io/github/followers/Rajshree-Chaudhari?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub Followers" />
-
-
-<img src="https://img.shields.io/github/followers/Rajshree-Chaudhari?label=Followers&style=flat-square&color=38BDF8&logo=github" />
 <img src="https://img.shields.io/badge/Focus-Cloud%20Automation-0B1220?style=flat-square&logo=amazonaws&logoColor=FF9900" />
 
 </div>
