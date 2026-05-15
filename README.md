@@ -127,7 +127,7 @@ Currently Learning:
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **GitHub Analytics** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-
+<!--
 <p align="center">
 <a href="https://github.com/Rajshree-Chaudhari">
 
@@ -139,7 +139,7 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=R
 
 </a>
 </p>
-
+-->
 <p align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajshree-Chaudhari&theme=neon-dark&hide_border=true&stroke=0000&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&currStreakNum=FFFFFF&d#ates=FFFFFF&sideLabels=FFFFFF"/>
 </p>
