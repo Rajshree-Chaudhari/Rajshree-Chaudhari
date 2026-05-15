@@ -131,11 +131,11 @@ Currently Learning:
 <p align="center">
 <a href="https://github.com/Rajshree-Chaudhari">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Rajshree-Chaudhari&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF&cache_seconds=1800"/>
+<img height="180"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rajshree-Chaudhari&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajshree-Chaudhari&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&cache_seconds=1800"/>
+<img height="180"
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rajshree-Chaudhari&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF"/>
 
 </a>
 </p>
